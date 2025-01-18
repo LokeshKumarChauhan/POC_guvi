@@ -1,0 +1,151 @@
+Id,Date,Category,Paymentmode,Description,Amount,Cashback
+1,2024-01-29,Education,Netbanking,School fees payment ,485.38,8.11
+2,2024-01-17,Subscriptions,Credit Card,premium charges payment ,153.34,2.76
+3,2024-01-25,Shopping,Netbanking,Gifts purchase ,743.01,3.01
+4,2024-01-06,Loans,Debit Card,Monthly EMI payment ,637.38,15.14
+5,2024-01-05,Loans,Netbanking,Monthly EMI payment ,828.92,6.7
+6,2024-01-04,Subscriptions,Netbanking,monthly prime subscription ,384.13,0.35
+7,2024-01-26,Entertainment,Credit Card,Movie ticket ,200.87,3.24
+8,2024-01-04,Food,Cash,Weekly groceries shopping ,198.64,1.29
+9,2024-01-17,Investments,Cash,Monthly LIC installment ,335.4,4.91
+10,2024-01-26,Bills,Credit Card,Monthly electricity bill payment ,309.7,1.41
+11,2024-01-20,Subscriptions,Credit Card,premium charges payment ,287.17,3.66
+12,2024-01-06,Rent,Debit Card,Monthly apartment rent payment ,433.66,5.0
+13,2024-01-22,Investments,Cash,Monthly LIC installment ,605.88,1.52
+14,2024-01-09,Rent,Netbanking,Monthly apartment rent payment ,844.97,8.43
+15,2024-01-28,Shopping,Cash,New clothes shopping ,888.74,10.63
+16,2024-01-25,Rent,Credit Card,Monthly apartment rent payment ,978.81,12.15
+17,2024-01-02,Loans,Debit Card,Monthly EMI payment ,246.39,4.87
+18,2024-01-08,Rent,Credit Card,Monthly apartment rent payment ,187.69,0.44
+19,2024-01-16,Investments,Cash,Monthly LIC installment ,663.47,8.23
+20,2024-01-26,Rent,Netbanking,Monthly apartment rent payment ,718.89,11.68
+21,2024-01-06,Transport,Debit Card,Monthly metro pass purchase ,605.86,14.44
+22,2024-01-29,Entertainment,Credit Card,Concert tickets purchase ,230.58,1.03
+23,2024-01-25,Rent,Credit Card,Monthly apartment rent payment ,98.13,0.01
+24,2024-01-03,Investments,Netbanking,Monthly LIC installment ,242.06,0.84
+25,2024-01-21,Health,Netbanking,Medicines purchase ,852.0,7.84
+26,2024-01-22,Rent,Netbanking,Monthly apartment rent payment ,709.87,4.69
+27,2024-01-27,Bills,Netbanking,Monthly mobile bill payment ,838.75,1.7
+28,2024-01-28,Rent,Netbanking,Monthly apartment rent payment ,676.49,4.7
+29,2024-01-20,Rent,Debit Card,Monthly apartment rent payment ,356.73,8.13
+30,2024-01-25,Entertainment,Cash,Movie ticket ,200.38,4.81
+31,2024-01-08,Subscriptions,Netbanking,monthly prime subscription ,833.18,16.32
+32,2024-01-10,Rent,Cash,Monthly apartment rent payment ,15.71,0.23
+33,2024-01-13,Bills,Debit Card,Monthly electricity bill payment ,339.78,5.19
+34,2024-01-14,Bills,Netbanking,Monthly mobile bill payment ,587.65,7.19
+35,2024-01-10,Loans,Debit Card,Monthly EMI payment ,64.81,1.05
+36,2024-01-19,Transport,Debit Card,Taxi to office ,459.54,5.34
+37,2024-01-11,Investments,Debit Card,Monthly SIP payment ,843.26,17.76
+38,2024-01-15,Food,Debit Card,Healthy fruits ,973.23,2.22
+39,2024-01-22,Loans,Netbanking,Monthly EMI payment ,863.68,6.03
+40,2024-01-03,Shopping,Cash,New electronics purchase ,627.22,14.33
+41,2024-01-17,Food,Debit Card,Healthy fruits ,735.06,5.17
+42,2024-01-30,Subscriptions,Credit Card,monthly prime subscription ,585.92,11.56
+43,2024-01-23,Rent,Netbanking,Monthly apartment rent payment ,824.85,11.6
+44,2024-01-22,Food,Cash,Healthy fruits ,973.99,24.1
+45,2024-01-27,Rent,Debit Card,Monthly apartment rent payment ,232.82,4.04
+46,2024-01-15,Investments,Debit Card,Monthly LIC installment ,769.57,13.67
+47,2024-01-19,Education,Credit Card,School fees payment ,130.09,0.49
+48,2024-01-29,Food,Credit Card,Healthy fruits ,19.15,0.36
+49,2024-01-06,Education,Debit Card,School fees payment ,593.17,1.89
+50,2024-01-22,Shopping,Netbanking,Gifts purchase ,942.91,5.86
+51,2024-01-21,Shopping,Cash,New electronics purchase ,714.64,11.24
+52,2024-01-11,Rent,Credit Card,Monthly apartment rent payment ,562.13,6.05
+53,2024-01-17,Loans,Cash,Monthly EMI payment ,724.09,8.87
+54,2024-01-29,Health,Netbanking,Medicines purchase ,961.69,11.21
+55,2024-01-10,Transport,Cash,Monthly metro pass purchase ,488.37,0.69
+56,2024-01-08,Education,Netbanking,School fees payment ,349.81,0.47
+57,2024-01-07,Shopping,Debit Card,New electronics purchase ,9.05,0.13
+58,2024-01-01,Investments,Netbanking,Monthly LIC installment ,512.17,5.84
+59,2024-01-22,Transport,Credit Card,Monthly metro pass purchase ,743.11,1.5
+60,2024-01-24,Rent,Cash,Monthly apartment rent payment ,328.45,0.49
+61,2024-01-29,Food,Cash,Dinner with friends at the restaurant ,682.63,4.79
+62,2024-01-01,Entertainment,Credit Card,Movie ticket ,56.42,1.12
+63,2024-01-24,Rent,Debit Card,Monthly apartment rent payment ,720.09,15.83
+64,2024-01-09,Health,Debit Card,Monthly gym membership ,552.44,13.49
+65,2024-01-03,Health,Cash,Monthly sports membership ,348.89,1.68
+66,2024-01-12,Education,Netbanking,Purchase of school stationery ,736.19,8.85
+67,2024-01-03,Health,Cash,Monthly gym membership ,304.24,3.1
+68,2024-01-23,Entertainment,Debit Card,Movie ticket ,636.57,12.05
+69,2024-01-13,Bills,Credit Card,Monthly internet bill payment ,916.05,19.14
+70,2024-01-08,Investments,Debit Card,Monthly LIC installment ,186.61,3.96
+71,2024-01-11,Entertainment,Debit Card,Concert tickets purchase ,723.59,5.39
+72,2024-01-19,Shopping,Debit Card,Gifts purchase ,626.28,9.52
+73,2024-01-19,Shopping,Cash,Gifts purchase ,882.73,17.48
+74,2024-01-06,Bills,Credit Card,Monthly mobile bill payment ,190.54,0.25
+75,2024-01-24,Loans,Debit Card,Monthly EMI payment ,957.46,22.09
+76,2024-01-24,Subscriptions,Cash,premium charges payment ,805.49,7.23
+77,2024-01-02,Food,Netbanking,Nutritious veggies ,771.44,5.51
+78,2024-01-13,Education,Netbanking,School fees payment ,108.77,0.35
+79,2024-01-22,Health,Debit Card,Medicines purchase ,77.65,0.12
+80,2024-01-30,Shopping,Debit Card,New electronics purchase ,399.8,9.72
+81,2024-01-29,Education,Cash,School fees payment ,370.04,6.06
+82,2024-01-25,Health,Debit Card,Monthly sports membership ,93.47,0.17
+83,2024-01-03,Shopping,Netbanking,New clothes shopping ,748.65,0.4
+84,2024-01-06,Transport,Cash,Taxi to office ,63.36,0.41
+85,2024-01-22,Transport,Cash,Taxi to office ,362.96,5.8
+86,2024-01-20,Loans,Debit Card,Monthly EMI payment ,668.29,12.52
+87,2024-01-03,Transport,Debit Card,Monthly metro pass purchase ,64.04,0.44
+88,2024-01-06,Bills,Credit Card,Monthly water bill payment ,435.17,3.15
+89,2024-01-19,Loans,Cash,Monthly EMI payment ,763.24,5.32
+90,2024-01-03,Bills,Netbanking,Cooking gas bill ,83.03,1.66
+91,2024-01-18,Rent,Debit Card,Monthly apartment rent payment ,214.08,3.99
+92,2024-01-20,Bills,Netbanking,Monthly internet bill payment ,834.24,16.26
+93,2024-01-19,Education,Debit Card,School fees payment ,218.78,3.5
+94,2024-01-24,Transport,Cash,Monthly metro pass purchase ,865.52,2.3
+95,2024-01-30,Investments,Debit Card,Monthly SIP payment ,387.64,3.1
+96,2024-01-29,Food,Credit Card,Nutritious veggies ,453.82,4.89
+97,2024-01-29,Transport,Debit Card,Monthly metro pass purchase ,934.27,4.15
+98,2024-01-21,Investments,Cash,Monthly LIC installment ,57.3,1.42
+99,2024-01-15,Education,Cash,School fees payment ,556.84,9.63
+100,2024-01-12,Transport,Netbanking,Taxi to office ,645.18,15.63
+101,2024-01-15,Rent,Credit Card,Monthly apartment rent payment ,221.79,4.56
+102,2024-01-24,Shopping,Credit Card,New clothes shopping ,123.02,2.88
+103,2024-01-02,Shopping,Credit Card,New electronics purchase ,254.14,0.35
+104,2024-01-08,Bills,Netbanking,Monthly internet bill payment ,680.75,11.45
+105,2024-01-20,Loans,Cash,Monthly EMI payment ,606.28,5.31
+106,2024-01-04,Bills,Cash,Monthly electricity bill payment ,194.88,2.37
+107,2024-01-28,Entertainment,Debit Card,Concert tickets purchase ,350.42,4.18
+108,2024-01-18,Food,Debit Card,Dinner with friends at the restaurant ,839.42,6.95
+109,2024-01-02,Investments,Credit Card,Monthly SIP payment ,528.09,1.72
+110,2024-01-07,Shopping,Credit Card,Gifts purchase ,229.86,1.55
+111,2024-01-24,Shopping,Netbanking,New clothes shopping ,660.57,5.58
+112,2024-01-11,Loans,Credit Card,Monthly EMI payment ,343.4,5.24
+113,2024-01-16,Rent,Netbanking,Monthly apartment rent payment ,25.1,0.15
+114,2024-01-01,Investments,Debit Card,Monthly SIP payment ,746.4,12.46
+115,2024-01-28,Rent,Debit Card,Monthly apartment rent payment ,577.6,7.37
+116,2024-01-10,Bills,Credit Card,Monthly mobile bill payment ,868.93,9.04
+117,2024-01-20,Investments,Cash,Monthly LIC installment ,392.39,6.15
+118,2024-01-12,Health,Netbanking,Medicines purchase ,163.02,2.0
+119,2024-01-16,Health,Credit Card,Monthly sports membership ,453.23,6.32
+120,2024-01-19,Education,Netbanking,School fees payment ,387.08,8.25
+121,2024-01-19,Bills,Credit Card,Cooking gas bill ,38.43,0.02
+122,2024-01-11,Health,Credit Card,Monthly gym membership ,593.01,10.96
+123,2024-01-23,Education,Cash,School fees payment ,144.84,2.08
+124,2024-01-12,Investments,Netbanking,Monthly LIC installment ,178.71,3.24
+125,2024-01-13,Investments,Debit Card,Monthly SIP payment ,533.05,7.94
+126,2024-01-03,Investments,Debit Card,Monthly LIC installment ,928.85,21.58
+127,2024-01-09,Shopping,Cash,New clothes shopping ,912.62,14.22
+128,2024-01-12,Loans,Cash,Monthly EMI payment ,702.1,13.25
+129,2024-01-15,Entertainment,Netbanking,Movie ticket ,728.18,9.2
+130,2024-01-12,Shopping,Netbanking,Gifts purchase ,400.92,1.25
+131,2024-01-22,Health,Credit Card,Monthly gym membership ,869.82,11.0
+132,2024-01-04,Transport,Netbanking,Taxi to office ,209.94,5.09
+133,2024-01-25,Transport,Cash,Taxi to office ,632.13,10.88
+134,2024-01-03,Subscriptions,Netbanking,premium charges payment ,366.52,5.0
+135,2024-01-11,Health,Debit Card,Monthly gym membership ,707.7,16.66
+136,2024-01-02,Transport,Netbanking,Taxi to office ,540.25,2.11
+137,2024-01-06,Rent,Credit Card,Monthly apartment rent payment ,435.37,2.64
+138,2024-01-02,Shopping,Credit Card,Gifts purchase ,932.79,19.14
+139,2024-01-24,Entertainment,Netbanking,Concert tickets purchase ,506.78,10.5
+140,2024-01-16,Investments,Credit Card,Monthly SIP payment ,502.96,0.34
+141,2024-01-02,Bills,Cash,Monthly mobile bill payment ,591.05,9.81
+142,2024-01-15,Bills,Credit Card,Monthly mobile bill payment ,389.35,6.89
+143,2024-01-29,Bills,Credit Card,Cooking gas bill ,448.62,7.18
+144,2024-01-23,Bills,Debit Card,Monthly water bill payment ,498.44,8.41
+145,2024-01-18,Health,Netbanking,Monthly gym membership ,85.35,1.1
+146,2024-01-04,Entertainment,Debit Card,Movie ticket ,233.71,4.95
+147,2024-01-11,Investments,Debit Card,Monthly LIC installment ,179.0,3.55
+148,2024-01-18,Entertainment,Credit Card,Concert tickets purchase ,555.85,5.1
+149,2024-01-28,Bills,Netbanking,Monthly electricity bill payment ,641.88,10.26
+150,2024-01-22,Health,Netbanking,Medicines purchase ,677.88,2.49
