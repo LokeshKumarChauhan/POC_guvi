@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+Swiggy Analysis.pbix
+credentials.py
+vaishnavi_credentials.py
